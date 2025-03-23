@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bearbite/bearbite/blob/main/hydra-banner-stacked-text.png" alt="Hydra Hero Banner" width="100%" />
+  <img src="https://github.com/bearbite/bearbite/blob/main/hydra-peter-gebri.png" alt="Hydra Hero Banner" width="100%" />
 </p>
 
 
