@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/bearbite/bearbite/blob/main/hydra-banner-stacked-text.png" alt="Hydra Hero Banner" width="100%" />
+</p>
+
+
 # 🧠 I Build Systems That Think Before They Act
 
 I'm **Peter Gebri** – CEO, CTO, and system designer with 25 years of development experience. I'm the creator of two systems that aren't just running — they're reshaping how we think about data and decision-making:
