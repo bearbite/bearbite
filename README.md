@@ -17,7 +17,7 @@ It's the first **adaptive, intelligent data engine** designed to turn developer 
 
 After 3+ years of deep engineering, **Hydra will debut publicly in Q2 2025** as an open-source, **enterprise-grade foundation** for the next generation of reactive systems.
 
-🌀 [Learn more at hydraide.com](https://hydraide.com)\
+🌀 [Learn more at hydraide.io](https://hydraide.io)\
 🤝 [Join as a Contributor](https://github.com/hydraide/hydraide) – we’re building a legendary core team.
 
 ---
