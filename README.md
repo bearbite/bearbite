@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bearbite/bearbite/blob/main/hydra-peter-gebri.png" alt="Hydra Hero Banner" width="100%" />
+  <img src="https://github.com/bearbite/bearbite/blob/main/hydraide-banner.jpg" alt="Hydra Hero Banner" width="100%" />
 </p>
 
 # 🧠 I Build Systems That Think Before They Act
